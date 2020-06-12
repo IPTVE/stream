@@ -7,6 +7,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:0,BTv Chottagram
 http://starshare.cc:41000/tuhin9/tuhin9/406
+#EXTINF:0, Fox Lifr
+#http://starshare.cc:41000/tuhin9/tuhin9/2115
 #EXTINF:0,Fox Life HD
 #http://starshare.cc:41000/tuhin9/tuhin9/2115
 #EXTINF:0,ATN BANGLA
